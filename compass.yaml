@@ -2,7 +2,6 @@ configVersion: 1
 name: magnetic-api
 description: API proxy between magnetic-web and backend services.
 typeId: SERVICE
-ownerId: "ari:cloud:teams::team/07f3a1d7-efd4-489c-8f54-d8e19e2f3462"
 fields:
   tier: 1
   lifecycle: Active
